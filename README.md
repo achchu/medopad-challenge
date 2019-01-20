@@ -2,6 +2,8 @@
 
 Automation suite validating patient records feature
 
+Task 1 and 2 results are included in the excel file
+
 ## Getting Started
 
 This is a Maven project with JUnit as the test runner. I have used Cucumber framework for writing BDD scenarios.
